@@ -6,6 +6,7 @@ A rogue Shadow Rider has escaped to the year 2078. You are the only Hunter left 
 
 Controls:
 - D-Pad or Analog: Move (L+R) / Jump + Climb (Up) / Crouch (Down)
+- B: Jump/Up (to make jumping a bit easier) / Cancel
 - Y: Shoot
 - Plus: Pause
 - Minus: Quit
@@ -13,7 +14,7 @@ Controls:
 ## Titan Tactics
 A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!
 
-Controls:
+Controls (based off of the Dualshock controller prompts):
 - D-Pad or Analog: Move Cursor
 - B: Accept
 - A: Cancel
