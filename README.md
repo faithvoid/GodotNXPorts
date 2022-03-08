@@ -32,3 +32,6 @@ Controls (based off of the Dualshock controller prompts):
 - Y: Swap Character
 - L/R: Rotate camera
 - Plus: Pause
+
+Bugs:
+- Load times take a few seconds + the framerate absolutely tanks for 3-4 seconds when the battle movement squares show up. Something about either Godot or this game hammers one of the CPU cores and causes this. Since it's a turn-based RPG it doesn't affect gameplay a TON, but it's still a bit annoying regardless.
