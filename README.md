@@ -15,8 +15,8 @@ A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic g
 
 Controls:
 - D-Pad or Analog: Move Cursor
-- A: Accept
-- B: Cancel
+- B: Accept
+- A: Cancel
 - X: Menu / End Turn
 - Y: Swap Character
 - L/R: Rotate camera
