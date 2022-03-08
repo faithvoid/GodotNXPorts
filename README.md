@@ -7,13 +7,13 @@ A compilation of Godot homebrew ports for the Nintendo Switch using Stary2001's 
 ![A rogue Shadow Rider has escaped to the year 2078. You are the only Hunter left who can take him down.](https://img.itch.zone/aW1hZ2UvNDkxMDQ0LzI1MzgyODEucG5n/original/65Q4iQ.png)
 *<p align="center">A rogue Shadow Rider has escaped to the year 2078. You are the only Hunter left who can take him down.</p>*
 
-<p align="center">Controls:
+Controls:
 - D-Pad or Analog: Move (L+R) / Jump + Climb (Up) / Crouch (Down)
 - B: Jump/Up (to make jumping a bit easier) / Cancel
 - Y: Shoot
 - Plus: Pause
 - Minus: Quit
-</p>
+
 
 ## [Titan Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
 ### by [Team Potato](https://team-potato.itch.io/) 
