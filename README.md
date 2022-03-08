@@ -22,7 +22,9 @@ Bugs:
 
 ## [Titan Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
 ### by [Team Potato](https://team-potato.itch.io/) 
-A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!
+![A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!](https://img.itch.zone/aW1hZ2UvODA1NTYxLzU2NDM3MjUucG5n/original/xuUZnE.png)
+*<p align="center">A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!</p>*
+
 
 Controls (based off of the Dualshock controller prompts):
 - D-Pad or Analog: Move Cursor
