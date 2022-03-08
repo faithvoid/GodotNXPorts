@@ -14,6 +14,11 @@ Controls:
 - Plus: Pause
 - Minus: Quit
 
+Bugs:
+- Currently this can only really be played in handheld mode (with a working touchscreen) due to the menu requiring a mouse click, which is emulated via the touch screen. Hopefully I can set the right analog stick + right trigger to work as a mouse + left click in the next update, but I'm still learning the ins and outs of Godot scripting.
+- There may be some slowdown whenever new assets load in, but it's usually for a blip of a second and the game is short enough where it's not particularly a hindrance. The Switch has a tendency to not like loading multiple files at the same time that seems to lead to microstutters in a good chunk of Godot titles, so I'm not really sure how to work around it. I've tried tweaking a whole series of performance settings to no avail, so suggestions are appreciated!
+- Analog support isn't working due to the fact that combining it with the B-button jump leads to the character very slowly running to the edge of the screen until you spam the controls non-stop. Not sure what that's about, but it's a platformer so you should use a decent d-pad anyway. ;P
+
 
 ## [Titan Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
 ### by [Team Potato](https://team-potato.itch.io/) 
