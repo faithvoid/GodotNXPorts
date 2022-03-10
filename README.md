@@ -22,7 +22,7 @@ Bugs:
 
 ## [Titan Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
 ### by [Team Potato](https://team-potato.itch.io/) 
-*<p align="center">![A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!](https://img.itch.zone/aW1hZ2UvODA1NTYxLzU2NDM3MjUucG5n/original/xuUZnE.png)</p>*
+*<p align="center">![A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!](https://img.itch.zone/aW1hZ2UvODA1NTYxLzU2NDM3MjUucG5n/original/xuUZnE.png)</p>
 *<p align="center">A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!</p>*
 
 
@@ -38,9 +38,9 @@ Controls (based off of the Dualshock controller prompts):
 Bugs:
 - Load times take a few seconds + the framerate absolutely tanks for 3-4 seconds when the battle movement squares show up. Something about either Godot or this game hammers one of the CPU cores and causes this. Since it's a turn-based RPG it doesn't affect gameplay a TON, but it's still a bit annoying regardless.
 
-## [Pocket Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
+## [Pocket Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/PocketTactics)
 ### by [Team Potato](https://team-potato.itch.io/) 
-*<p align="center">![Strategy RPG Gameboy demake in 4 shades of green!](https://img.itch.zone/aW1hZ2UvNzQ5ODQzLzQxOTgyMDAucG5n/original/RkrhPA.png)</p>*
+*<p align="center">![Strategy RPG Gameboy demake in 4 shades of green!](https://img.itch.zone/aW1hZ2UvNzQ5ODQzLzQxOTgyMDAucG5n/original/RkrhPA.png)</p>
 *<p align="center">Strategy RPG Gameboy demake in 4 shades of green!</p>*
 
 Controls:
