@@ -27,7 +27,7 @@ Bugs:
 
 
 Controls (based off of the Dualshock controller prompts):
-- D-Pad or Analog: Move Cursor
+- D-Pad: Move Cursor
 - B: Accept
 - A: Cancel
 - X: Menu / End Turn
@@ -43,4 +43,7 @@ Bugs:
 ![Strategy RPG Gameboy demake in 4 shades of green!](https://img.itch.zone/aW1hZ2UvNzQ5ODQzLzQxOTgyMDAucG5n/original/RkrhPA.png)
 *<p align="center">Strategy RPG Gameboy demake in 4 shades of green!</p>*
 
-Controls are as they're shown in-game!
+Controls:
+- D-Pad: Move Cursor
+- A: Accept
+- B: Cancel
