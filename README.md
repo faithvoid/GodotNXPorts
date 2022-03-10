@@ -47,3 +47,17 @@ Controls:
 - D-Pad: Move Cursor
 - A: Accept
 - B: Cancel
+
+## [Untold](https://github.com/faithvoid/GodotNXPorts/releases/tag/PocketTactics)
+### by [JohnGabrielUK](https://JohnGabrielUK.itch.io/) 
+*<p align="center">![In the aftermath of destiny, at the precipice of fate,
+a tale that was never meant to be told awaits its chance to be heard.](https://img.itch.zone/aW1hZ2UvNzQ5ODQzLzQxOTgyMDAucG5n/original/RkrhPA.png)</p>*
+*<p align="center">In the aftermath of destiny, at the precipice of fate,
+a tale that was never meant to be told awaits its chance to be heard.</p>*
+
+Controls:
+- D-Pad: Move / Turn
+- Start: +
+- Map: X
+- Bomb: Y
+- Use: A
