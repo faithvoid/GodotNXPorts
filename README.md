@@ -37,3 +37,10 @@ Controls (based off of the Dualshock controller prompts):
 
 Bugs:
 - Load times take a few seconds + the framerate absolutely tanks for 3-4 seconds when the battle movement squares show up. Something about either Godot or this game hammers one of the CPU cores and causes this. Since it's a turn-based RPG it doesn't affect gameplay a TON, but it's still a bit annoying regardless.
+
+## [Pocket Tactics](https://github.com/faithvoid/GodotNXPorts/releases/tag/TitanTactics)
+### by [Team Potato](https://team-potato.itch.io/) 
+![Strategy RPG Gameboy demake in 4 shades of green!](https://img.itch.zone/aW1hZ2UvNzQ5ODQzLzQxOTgyMDAucG5n/original/RkrhPA.png)
+*<p align="center">Strategy RPG Gameboy demake in 4 shades of green!</p>*
+
+Controls are as they're shown in-game!
